@@ -1,5 +1,3 @@
-# Who am I?
-
 <img
     style="display: block;
            margin-left: auto;
@@ -14,6 +12,8 @@
  [![Twitter](https://img.shields.io/badge/Twitter-@AnonJr-orange?style=plastic&logo=twitter)](https://twitter.com/AnonJr) [![Instagram](https://img.shields.io/badge/Instagram-AnonJr__Live-orange?style=plastic&logo=instagram)](https://www.instagram.com/anonjr_live/)
 
 </div>
+
+# Who am I?
 
 That's a question I ask myself every day&hellip;
 
