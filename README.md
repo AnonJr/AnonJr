@@ -43,9 +43,9 @@ I used to answer questions over on Stack Exchange, I may return to distributing 
 
 <div style="text-align:center;">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnonJr&theme=great-gatsby&border_radius=10&count_private=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=AnonJr&theme=great-gatsby&border_radius=10&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonJr&theme=great-gatsby&layout=compact&border_radius=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonJr&theme=great-gatsby&layout=compact&border_radius=10&count_private=true)
 
 [![Planet Minecraft](https://img.shields.io/badge/Planet_Minecraft-AnonJr-orange?style=plastic&logo=minecraft)](https://www.planetminecraft.com/member/anonjr/) [![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-AnonJr-orange?style=plastic&logo=stackexchange)](https://stackexchange.com/users/12701/anonjr) [![Dev.to](https://img.shields.io/badge/Dev.to-AnonJr-orange?style=plastic&logo=dev.to)](https://dev.to/anonjr)
 
@@ -59,4 +59,4 @@ Bible By Example is a podcast dedicated to covering Scripture in a way that enab
 
 The gospel of Jesus Christ is presented calmly, sanely, logically, to the average man, who is a man of sane, logical, common sense.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnonJr&repo=Bible-By-Example&theme=great-gatsby&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnonJr&repo=Bible-By-Example&theme=great-gatsby&border_radius=10)](https://github.com/AnonJr/Bible-By-Example)
