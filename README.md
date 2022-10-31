@@ -43,9 +43,11 @@ I used to answer questions over on Stack Exchange, I may return to distributing 
 
 <div style="text-align:center;">
 
+<!--
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnonJr&theme=great-gatsby&border_radius=10&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonJr&theme=great-gatsby&layout=compact&border_radius=10&count_private=true)
+-->
 
 [![Planet Minecraft](https://img.shields.io/badge/Planet_Minecraft-AnonJr-orange?style=plastic&logo=minecraft)](https://www.planetminecraft.com/member/anonjr/) [![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-AnonJr-orange?style=plastic&logo=stackexchange)](https://stackexchange.com/users/12701/anonjr) [![Dev.to](https://img.shields.io/badge/Dev.to-AnonJr-orange?style=plastic&logo=dev.to)](https://dev.to/anonjr)
 
