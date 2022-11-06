@@ -3,7 +3,7 @@
            margin-left: auto;
            margin-right: auto;
            border-radius: 10px;"
-    src="https://www.anonjr.com/res/gravatar.png"
+    src="https://github.com/AnonJr/AnonJr/blob/main/img/2021-Profile-BW-sm.png"
     alt="AnonJr">
 </img>
 
